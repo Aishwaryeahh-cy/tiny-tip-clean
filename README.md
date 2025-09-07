@@ -13,7 +13,7 @@
 The **Threat Intelligence Platform** is a tool for **real-time threat analysis** on IP addresses, domains, and URLs.  
 It helps users detect suspicious activity and make informed security decisions.  
 
-This platform is ideal for cybersecurity professionals, analysts, and enthusiasts.
+Ideal for cybersecurity professionals, analysts, and enthusiasts.
 
 ---
 
