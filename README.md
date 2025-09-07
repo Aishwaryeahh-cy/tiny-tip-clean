@@ -1,10 +1,10 @@
 # Threat Intelligence Platform 🛡️
 
-[![Build Status](https://github.com/YourUsername/threat-intelligence-platform/actions/workflows/main.yml/badge.svg)](https://github.com/YourUsername/threat-intelligence-platform/actions)
-[![Language](https://img.shields.io/badge/language-Python-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)](https://github.com/YourUsername/threat-intelligence-platform)
-[![Issues](https://img.shields.io/github/issues/YourUsername/threat-intelligence-platform)](https://github.com/YourUsername/threat-intelligence-platform/issues)
+[![CI](https://github.com/YourUsername/threat-intelligence-platform/actions/workflows/main.yml/badge.svg?style=for-the-badge)](https://github.com/YourUsername/threat-intelligence-platform/actions)
+[![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge)](https://github.com/YourUsername/threat-intelligence-platform)
+[![Issues](https://img.shields.io/badge/Issues-Open-red?style=for-the-badge)](https://github.com/YourUsername/threat-intelligence-platform/issues)
 
 ---
 
