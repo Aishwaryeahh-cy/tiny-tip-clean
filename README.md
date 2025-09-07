@@ -1,6 +1,5 @@
 # Threat Intelligence Platform 🛡️
 
-[![CI](https://github.com/YourUsername/threat-intelligence-platform/actions/workflows/main.yml/badge.svg?style=for-the-badge)](https://github.com/YourUsername/threat-intelligence-platform/actions)
 [![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge)](https://github.com/YourUsername/threat-intelligence-platform)
@@ -12,9 +11,6 @@
 
 The **Threat Intelligence Platform** is a tool for **real-time threat analysis** on IP addresses, domains, and URLs.  
 It helps users detect suspicious activity and make informed security decisions.  
-
-Ideal for cybersecurity professionals, analysts, and enthusiasts.
-
 ---
 
 ## Features
