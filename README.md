@@ -1,6 +1,6 @@
 # Threat Intelligence Platform 🛡️
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/YourUsername/threat-intelligence-platform)
+[![Build Status](https://github.com/YourUsername/threat-intelligence-platform/actions/workflows/main.yml/badge.svg)](https://github.com/YourUsername/threat-intelligence-platform/actions)
 [![Language](https://img.shields.io/badge/language-Python-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)](https://github.com/YourUsername/threat-intelligence-platform)
@@ -26,3 +26,11 @@ This platform is ideal for cybersecurity professionals, analysts, and enthusiast
 
 ---
 
+## Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/YourUsername/threat-intelligence-platform.git
+cd threat-intelligence-platform
+pip install -r requirements.txt
