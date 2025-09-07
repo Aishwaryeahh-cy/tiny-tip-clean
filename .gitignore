@@ -1,0 +1,19 @@
+# Tiny Threat Intelligence Platform (TIP)
+
+A simple, terminal-based Threat Intelligence Platform built in Python.  
+This project downloads a public feed of malicious domains and lets you check any domain for malicious activity.
+
+## Features
+
+- Downloads malicious domains from [URLhaus](https://urlhaus.abuse.ch/)  
+- Stores domains in an SQLite database (`iocs.db`)  
+- Terminal interface to check multiple domains for malicious status  
+- Shows a sample of collected indicators for easy demo
+- Cool ASCII banner for professional presentation
+
+## How to Run
+
+```bash
+cd ~/tiny-tip
+source venv/bin/activate
+python3 collect_and_show.py
